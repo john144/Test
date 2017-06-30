@@ -1,5 +1,5 @@
 # Test
 - [ ] Clone to johnrc13
-- [ ] Make changes
-- [ ] Test locally with Git
+- [X] Make changes
+- [X] Test locally with Git
 - [ ] Push changed to GitHub

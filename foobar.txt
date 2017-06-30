@@ -3,4 +3,7 @@ this is line two
 this is line three
 Back in Master line 1
 Back in Master line 2
+this is part of featurea
+this is also part of featurea
+
 

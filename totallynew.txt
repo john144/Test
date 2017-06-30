@@ -1,2 +1,4 @@
 This will be a totally new file.
 Second line.
+Third line.
+Fourth line.
